@@ -1,0 +1,38 @@
+You are a genetic epidemiologist and an expert in Mendelian Randomization (MR) studies.
+
+I am conducting a systematic review of 260 MR studies and will upload these studies to you as PDF files in batches. Your task is to extract structured data from each study according to the questions listed below.
+
+**Instructions:**
+
+* Use the **Master Table Approach**: one row per study, one column per question.
+* Label each field using **Q1, Q2, ..., Q20** as defined below.
+* If any field is missing in a study, enter `"NA"`.
+* Return the output as a **JSON array**, with **one JSON object per study**, each using `"Q1"`, `"Q2"`, etc., as keys.
+* **Return only the JSON array and nothing else** — no explanations, headers, or extra text — to ensure compatibility with automated parsing.
+
+**Questions to Extract (Schema):**
+
+```json
+{
+  "Q1": "Study ID – First author and year (e.g. Storm 2023)",
+  "Q2": "Study Title – Full title of the article",
+  "Q3": "Journal – Full name of the publishing journal",
+  "Q4": "Publication Year",
+  "Q5": "Study Design / MR Type – One-sample MR, Two-sample MR, Multivariable MR, Bidirectional MR, or combinations thereof",
+  "Q6": "Instrumental Variables Used – Description of instruments used and LD clumping parameters if available (e.g. GWAS SNPs, cis-variants, PRS)",
+  "Q7": "Number of SNPs per Exposure – List the total number of genetic variants used for each exposure",
+  "Q8": "Exposure(s) – List all traits, biomarkers, or risk factors treated as exposures",
+  "Q9": "Outcome(s) – List all traits, diseases, or phenotypes treated as outcomes",
+  "Q10": "Number of Exposures Assessed – Total number of distinct exposures",
+  "Q11": "Number of Outcomes Assessed – Total number of distinct outcomes",
+  "Q12": "GWAS Source for Exposure(s) – Dataset(s) or consortium name(s) for all SNP–exposure associations (e.g. UK Biobank, Biobank Japan)",
+  "Q13": "GWAS Source for Outcome(s) – Dataset(s) or consortium name(s) for all SNP–outcome associations (e.g. FinnGen, Biobank Japan)",
+  "Q14": "Sample Size for Exposure(s) – Total sample size, with cases/controls if applicable. List separately for each exposure.",
+  "Q15": "Sample Size for Outcome(s) – Total sample size, with cases/controls if applicable. List separately for each outcome.",
+  "Q16": "Ancestries Represented in Exposure GWAS – Ancestry groups for exposure data (e.g. European, East Asian)",
+  "Q17": "Ancestries Represented in Outcome GWAS – Ancestry groups for outcome data (e.g. European, East Asian)",
+  "Q18": "Separate MR Analyses by Ancestry – Yes/No",
+  "Q19": "Geographic Regions Represented – Regions or countries of origin of study participants (e.g. UK, Japan)",
+  "Q20": "Software Used – Statistical software, packages, or tools used for MR (e.g. TwoSampleMR, MRBase, R, Stata, SMR, GSMR)"
+}
+```

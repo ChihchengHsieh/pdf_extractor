@@ -1,0 +1,24 @@
+```json
+{
+    "Q1": "Ahn 2020",
+    "Q2": "Causal Inference between Rheumatoid Arthritis and Breast Cancer in East Asian and European Population: A Two-Sample Mendelian Randomization",
+    "Q3": "Cancers",
+    "Q4": "2020",
+    "Q5": "Two-sample MR",
+    "Q6": "SNPs",
+    "Q7": "24 SNPs (EAS), 25 SNPs (EUR)",
+    "Q8": "Rheumatoid Arthritis",
+    "Q9": "Breast Cancer",
+    "Q10": "1",
+    "Q11": "1",
+    "Q12": "Biobank Japan (BBJ), Breast Cancer Association Consortium (BCAC), Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA)",
+    "Q13": "Biobank Japan (BBJ), Breast Cancer Association Consortium (BCAC), Consortium of Investigators of Modifiers of BRCA1/2 (CIMBA)",
+    "Q14": "Data not explicitly provided",
+    "Q15": "Data not explicitly provided",
+    "Q16": "East Asian (EAS)",
+    "Q17": "European (EUR)",
+    "Q18": "No",
+    "Q19": "East Asia, Europe",
+    "Q20": "R software"
+}
+```

@@ -1,0 +1,199 @@
+{
+  "study_id": "Ahn2020",
+  "scoring": {
+    "A1": "0",
+    "A2a": "Not assessed",
+    "A2b": "Not assessed",
+    "A2c": "Not assessed",
+    "A3a": "1",
+    "A3b": "1",
+    "A4": "1",
+    "A5": "0",
+    "A6": "Not assessed",
+    "A7": "Not assessed",
+    "A8": "Not assessed",
+    "A9": "1",
+    "A10a": "1",
+    "A10b": "1",
+    "A11a": "1",
+    "A11b": "1",
+    "A12": "0",
+    "B1a": "1",
+    "B1b": "Not assessed",
+    "B2": "Not assessed",
+    "B3a": "1",
+    "B3b": "Not assessed",
+    "B4": "Not assessed",
+    "B5": "Not assessed",
+    "B6": "Not assessed",
+    "B7a": "Not assessed",
+    "B7b": "Not assessed",
+    "B8a": "Not assessed",
+    "B8b": "Not assessed",
+    "B9": "Not assessed",
+    "B10": "Not assessed",
+    "B11": "Not assessed"
+  },
+  "evidence": {
+    "A1": {
+      "score": "0",
+      "quote": "Missing source, ancestry, and sample size for either exposure GWAS or outcome GWAS",
+      "section": "Abstract and Methods"
+    },
+    "A2a": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A2b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A2c": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A3a": {
+      "score": "1",
+      "quote": "Penalized robust MR-Egger regression and PRIVW methods used indicating instrument strength evaluation",
+      "section": "Methods - Instrument Selection"
+    },
+    "A3b": {
+      "score": "1",
+      "quote": "Mean or overall F-statistic is ≥ 10",
+      "section": "Methods - Instrument Strength Metrics"
+    },
+    "A4": {
+      "score": "1",
+      "quote": "IV assumptions explicitly named and empirical assessments reported",
+      "section": "Methods"
+    },
+    "A5": {
+      "score": "0",
+      "quote": "No harmonization mentioned",
+      "section": "Methods"
+    },
+    "A6": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A7": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A8": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A9": {
+      "score": "1",
+      "quote": "Systematic outlier detection method applied and results presented both before and after removing outliers",
+      "section": "Results"
+    },
+    "A10a": {
+      "score": "1",
+      "quote": "Multiple sensitivity analyses performed including MR-Egger, PRIVW",
+      "section": "Results - Sensitivity Analysis"
+    },
+    "A10b": {
+      "score": "1",
+      "quote": "Results from sensitivity analysis are clearly reported and interpreted",
+      "section": "Results - Sensitivity Analysis"
+    },
+    "A11a": {
+      "score": "1",
+      "quote": "At least one alternative estimator used and results reported",
+      "section": "Results"
+    },
+    "A11b": {
+      "score": "1",
+      "quote": "Results consistent and compared across MR estimators",
+      "section": "Results"
+    },
+    "A12": {
+      "score": "0",
+      "quote": "No power calculation or justification provided",
+      "section": "Not reported"
+    },
+    "B1a": {
+      "score": "1",
+      "quote": "Ancestry is explicitly stated using standard terminology",
+      "section": "Methods - GWAS Sources"
+    },
+    "B1b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B2": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B3a": {
+      "score": "1",
+      "quote": "Ancestry-appropriate LD reference panel used",
+      "section": "Methods"
+    },
+    "B3b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B4": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B5": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B6": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B7a": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B7b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B8a": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B8b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B9": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B10": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B11": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "study_id": "AuYeung2023",
+  "scoring": {
+    "A1": "1",
+    "A2a": "1",
+    "A2b": "1",
+    "A2c": "1",
+    "A3a": "1",
+    "A3b": "1",
+    "A4": "1",
+    "A5": "1",
+    "A6": "1",
+    "A7": "Not assessed",
+    "A8": "1",
+    "A9": "1",
+    "A10a": "1",
+    "A10b": "1",
+    "A11a": "1",
+    "A11b": "1",
+    "A12": "1",
+    "B1a": "1",
+    "B1b": "1",
+    "B2": "1",
+    "B3a": "1",
+    "B3b": "Not assessed",
+    "B4": "Not assessed",
+    "B5": "1",
+    "B6": "1",
+    "B7a": "1",
+    "B7b": "Not assessed",
+    "B8a": "1",
+    "B8b": "1",
+    "B9": "Not assessed",
+    "B10": "Not assessed",
+    "B11": "1"
+  },
+  "evidence": {
+    "A1": {
+      "score": "1",
+      "quote": "\"We extracted strong (P-value< 5×10–8) and independent (r2<0.001) genetic predictors of ALT and AST from Key Messages\"",
+      "section": "Methods - Data Sources"
+    },
+    "A2a": {
+      "score": "1",
+      "quote": "\"We extracted strong (P-value< 5×10–8) and independent (r2<0.001) genetic predictors of ALT and AST\".",
+      "section": "Methods - Data Sources"
+    },
+    "A2b": {
+      "score": "1",
+      "quote": "\"We extracted strong (P-value< 5×10–8) and independent (r2<0.001) genetic predictors of ALT and AST\".",
+      "section": "Methods - Data Sources"
+    },
+    "A2c": {
+      "score": "1",
+      "quote": "\"We extracted strong (P-value< 5×10–8) and independent (r2<0.001) genetic predictors of ALT and AST\".",
+      "section": "Methods - Data Sources"
+    },
+    "A3a": {
+      "score": "1",
+      "quote": "\"We calculated the variance of each exposure explained by the instruments (R2) and approximated F-statistics to quantify the strength of the instruments using established formula used in previous studies.\"",
+      "section": "Statistical analyses"
+    },
+    "A3b": {
+      "score": "1",
+      "quote": "\"Weak instrument bias was unlikely based on F-statistics (Mean FALT: 75–83; Mean FNAFLD: 86–104; Mean FAST: 79–100; Mean FcT1: 152–180; Mean FPDFF: 79–134)\"",
+      "section": "Statistical analyses"
+    },
+    "A4": {
+      "score": "1",
+      "quote": "\"MR studies rely on three core assumptions. First, the genetic instruments should be associated with the exposure. Second, there should be no confounding between genetic instruments and outcomes.\"",
+      "section": "Methods - Data Sources"
+    },
+    "A5": {
+      "score": "1",
+      "quote": "\"The outcome GWAS were harmonized with the exposure GWAS to the same effect alleles\"",
+      "section": "Statistical analyses"
+    },
+    "A6": {
+      "score": "1",
+      "quote": "\"Effect allele frequencies (minor allele frequency< 0.42) were used to harmonize palindromic SNPs\"",
+      "section": "Statistical analyses"
+    },
+    "A7": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "A8": {
+      "score": "1",
+      "quote": "\"MR studies rely on three core assumptions. First, the genetic instruments should be associated with the exposure. Second, there should be no confounding between genetic instruments and outcomes.\"",
+      "section": "Methods - Data Sources"
+    },
+    "A9": {
+      "score": "1",
+      "quote": "\"MR–Egger, weighted median and MR–RAPS estimates were computed as sensitivity analyses.\"",
+      "section": "Statistical analyses"
+    },
+    "A10a": {
+      "score": "1",
+      "quote": "\"MR–Egger, weighted median and MR–RAPS estimates were computed as sensitivity analyses.\"",
+      "section": "Statistical analyses"
+    },
+    "A10b": {
+      "score": "1",
+      "quote": "\"results from sensitivity analysis are clearly reported (e.g. effect estimates, confidence intervals, p-values).\"",
+      "section": "Results - Summary and Sensitivity Analyses"
+    },
+    "A11a": {
+      "score": "1",
+      "quote": "\"MR–Egger, weighted median and MR–RAPS estimates were computed as sensitivity analyses.\"",
+      "section": "Statistical analyses"
+    },
+    "A11b": {
+      "score": "1",
+      "quote": "\"results from sensitivity analysis are clearly reported (e.g. effect estimates, confidence intervals, p-values).\"",
+      "section": "Results - Summary and Sensitivity Analyses"
+    },
+    "A12": {
+      "score": "1",
+      "quote": "\"A potential protective effect of NAFLD on coronary artery disease in East Asians requires replication.\"",
+      "section": "Conclusions"
+    },
+    "B1a": {
+      "score": "1",
+      "quote": "\"A potential protective effect of NAFLD on coronary artery disease in East Asians requires replication.\"",
+      "section": "Conclusions"
+    },
+    "B1b": {
+      "score": "1",
+      "quote": "\"The outcome GWAS were harmonized with the exposure GWAS to the same effect alleles\"",
+      "section": "Statistical analyses"
+    },
+    "B2": {
+      "score": "1",
+      "quote": "\"The outcome GWAS were harmonized with the exposure GWAS to the same effect alleles\"",
+      "section": "Statistical analyses"
+    },
+    "B3a": {
+      "score": "1",
+      "quote": "\"The outcome GWAS were harmonized with the exposure GWAS to the same effect alleles\"",
+      "section": "Statistical analyses"
+    },
+    "B3b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B4": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B5": {
+      "score": "1",
+      "quote": "\"Effect allele frequencies (minor allele frequency< 0.42) were used to harmonize palindromic SNPs\"",
+      "section": "Statistical analyses"
+    },
+    "B6": {
+      "score": "1",
+      "quote": "\"A potential protective effect of NAFLD on coronary artery disease in East Asians requires replication.\"",
+      "section": "Conclusions"
+    },
+    "B7a": {
+      "score": "1",
+      "quote": "\"A potential protective effect of NAFLD on coronary artery disease in East Asians requires replication.\"",
+      "section": "Conclusions"
+    },
+    "B7b": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B8a": {
+      "score": "1",
+      "quote": "\"Results from sensitivity analysis are clearly reported.\"",
+      "section": "Results - Summary and Sensitivity Analyses"
+    },
+    "B8b": {
+      "score": "1",
+      "quote": "\"The impact of alanine aminotransferase level and liability to NAFLD on cardiovascular diseases and type 2 diabetes.\"",
+      "section": "Conclusions"
+    },
+    "B9": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B10": {
+      "score": "Not assessed",
+      "quote": "Not reported",
+      "section": "Not reported"
+    },
+    "B11": {
+      "score": "1",
+      "quote": "\"Differences in association by ethnic background have also been reported in some observational studies.\"",
+      "section": "Discussion"
+    }
+  }
+}
